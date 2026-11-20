@@ -4,7 +4,7 @@
 
 **Systems, Security & Full-Stack Software Engineer**
 
-Building applied cryptography libraries, forensic disk-carving engines, enterprise business software, and production AI developer skills.
+Building applied cryptography libraries, forensic disk-carving engines, enterprise business software, and production AI developer tools.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -24,7 +24,7 @@ Building applied cryptography libraries, forensic disk-carving engines, enterpri
 - **Application Security & Cryptography** — Field-level encryption, blind indexes, tamper-evident row seals, Argon2id auth, and encrypted secrets vaults.
 - **Systems & Storage Engineering** — Raw block-device scanning, binary signature carving, container parsing, and low-dependency desktop/web tooling.
 - **Enterprise Domain Architecture** — Immutable stock ledgers, multi-DB retail/POS billing engines, and real-world operational software.
-- **AI Developer Tooling** — Structured domain skills, prompt engineering systems, and secure-by-default engineering workflows.
+- **AI Developer Tooling** — Multi-engine prompt compilers, structured domain skills, and secure-by-default engineering workflows.
 
 ---
 
@@ -32,6 +32,7 @@ Building applied cryptography libraries, forensic disk-carving engines, enterpri
 
 | Project | Domain | Highlights |
 | :--- | :--- | :--- |
+| [**`prompt-engine-pro`**](https://github.com/prabhas9192/prompt-engine-pro) · [**Live App ↗**](https://prabhas9192.github.io/prompt-engine-pro/) | Generative AI Studio | Zero-build multi-engine visual synthesis studio & 2026 prompt compiler (**500+ variables**, **9 engines**: MJ V8/V7, FLUX 2, SD 3.5, SDXL, GPT Image 1.5, Imagen 4, 4D Video, live conflict linter & 8-phase curriculum). |
 | [**`securekit`**](https://github.com/prabhas9192/securekit) | Security & Crypto | Application-level AES-256-GCM encryption, blind indexes, tamper-evident row seals, Argon2id hashing, versioned secrets vaults, static scanner & secure-SDLC AI skills for **Python & Node.js**. |
 | [**`inventory-management-skill`**](https://github.com/prabhas9192/inventory-management-skill) | Enterprise ERP / AI | Universal inventory management AI skill, pure-Python domain engine & PostgreSQL 16 schema covering FEFO/FMFO/LIFO/JIT dispatch, row-locked stock ledgers, MWA COGS, and offline sync. |
 | [**`Sales-Billing-Software`**](https://github.com/prabhas9192/Sales-Billing-Software) | Retail & POS | **BillFlow** — local-first sales, invoicing, inventory tracking, receipt management, and analytics supporting SQLite, PostgreSQL, MySQL & MariaDB across desktop and LAN mobile. |
